@@ -23,4 +23,4 @@ This project depends on the following external libraries:
 Copyright (c) 2010-2011 Susan Potter <me@susanpotter.net>.  All rights reserved.
 
 The source code is released as an open source project under the BSD license.
-Details of the license can be found in file:LICENSE.
+Details of the license can be found in [LICENSE](file:LICENSE).
