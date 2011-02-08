@@ -10,6 +10,7 @@ scheme for API application or user authentication).
 ## Dependencies
 
 This project depends on the following external libraries:
+
 * [CryptoJS](http://code.google.com/p/crypto-js/#SHA-1) [runtime]
 * [Node.js](http://nodejs.org/) [development, testing]
 
